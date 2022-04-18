@@ -2,8 +2,8 @@
 
 /**
  *  * main - prints the phrase with
- *   * \"Programming is like building a multilingual puzzle
- *    * Return: 0 if exited properly, non-zero otherwise
+ *  * \"Programming is like building a multilingual puzzle
+ *  * Return: 0 if exited properly, non-zero otherwise
  **/
 int main(void)
 {
