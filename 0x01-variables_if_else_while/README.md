@@ -3,3 +3,4 @@
 2. a program that prints the alphabet in lowercase, followed by a new line
 3. a program that prints the alphabet in lowercase, and then in uppercase
 4. like task 2 but Print all the letters except q and e
+5. a program that prints all single digit numbers of base 10 starting from 0
