@@ -6,3 +6,4 @@
 5. a program that prints all single digit numbers of base 10 starting from 0
 6. like task5, using putchar
 7. print lowercase alphabet is reverse order
+8. a program that prints all the numbers of base 16 in lowercase
