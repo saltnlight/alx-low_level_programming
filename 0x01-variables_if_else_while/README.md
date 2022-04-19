@@ -7,3 +7,4 @@
 6. like task5, using putchar
 7. print lowercase alphabet is reverse order
 8. a program that prints all the numbers of base 16 in lowercase
+9.  a program that prints all possible combinations of single-digit numbers
