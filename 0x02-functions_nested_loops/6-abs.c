@@ -5,7 +5,7 @@
  * @n: the int to check
  * Return: the absolute value of int
 **/
-int print_last_digit(int n)
+int _abs(int n)
 {
 	if (n >= 0)
 	{
